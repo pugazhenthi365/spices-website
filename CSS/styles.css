@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+#navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    padding: 10px 70px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, .5);
+    background-color: black;
+}
+
+.navbar .navbar-brand {
+    font-size: 25px;
+    font-weight: 600;
+    color: #29f700 !important;
+}
+
+#navbarSupportedContent a {
+    color: #fff;
+    border-bottom: 2px solid transparent;
+}
+
+#navbarSupportedContent a:hover {
+    border-bottom: 2px solid #29f700;
+}
+
+.navbar .btn {
+    background-color: #29f700;
+    border-radius: 15px;
+}
+
+.navbar .btn:hover {
+    background-color: #16a637;
+}
+
+section {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home {
+    background: url(../IMG/istockphoto-941858854-612x612.jpg );
+    background-size: cover;
+    background-position: center;
+    flex-direction: column;
+}
+
+#home h1 {
+    font-size: 100px;
+    color: white;
+    letter-spacing: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#home p {
+    font: size 18px;
+    color: #fff;
+}
+
+#home .input-group {
+    width: 40%;
+    height: 40px;
+}
+#home .signin {
+    background-color: #16a637 !important;
+    color: #fff !important;
+}
+.signin1 {
+    background-color: #16a637 !important;
+    color: #fff !important;
+}
+
+#About h1 {
+    font-size: 50px;
+    font-weight: 450;
+}
+
+#contact img {
+    height: 100%;
+}
+
+.card {
+    transition: transform 0.5s, box-shadow 0.5s;
+    overflow: hidden;
+    width: 15rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card:hover .btn {
+    background-color: #16a637;
+    transform: scale(1.05);
+}
+
+.card img {
+    transition: transform 0.5s;
+    background-color: #16a637;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}
+
+.row .card .btn {
+    display: block;
+    margin-left: 55px;
+    background-color: #16a637 !important;
+}
+
+.products {
+    margin-top: 15px;
+}
+
+.box {
+    width: 80% !important;
+    margin-top: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact input {
+    margin: 10px 0px;
+}
+
+#contact textarea {
+    margin: 10px 0px;
+}
+
+.footer {
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, .5);
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
