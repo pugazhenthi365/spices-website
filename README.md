@@ -54,15 +54,8 @@ The Spices website is dedicated to presenting a variety of organic spices with d
 ![Responsiveness](https://github.com/pugazhenthi365/spices-website/blob/2a944523857ededd9e3374917f2cd634a5095d36/Screenshot%202024-11-09%20181131.png)
 
 
-## How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/kfc-mock-website.git
-](https://github.com/pugazhenthi365/spices-website.git)
-
 ## Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/spices-website.git
+   git clone https://github.com/pugazhenthi365/spices-website.git
