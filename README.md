@@ -50,6 +50,9 @@ The Spices website is dedicated to presenting a variety of organic spices with d
 ### Footer
 ![Footer](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181057.png)
 
+### Responsiveness
+![Responsiveness](https://github.com/pugazhenthi365/spices-website/blob/2a944523857ededd9e3374917f2cd634a5095d36/Screenshot%202024-11-09%20181131.png)
+
 ## Setup Instructions
 
 1. **Clone the repository**:
