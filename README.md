@@ -38,14 +38,14 @@ The Spices website is dedicated to presenting a variety of organic spices with d
 )
 
 ### About Us Section
-![About Us]([./screenshots/about.png](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181022.png))
+![About Us](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181022.png)
 
 ### Products Section
-![Products]([./screenshots/products.png](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181036.png))
+![Products](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181036.png)
 
 ### Contact Section
-![Contact]([./screenshots/products.png](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181049.png
-))
+![Contact](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181049.png
+)
 
 ### Footer
 ![Footer](https://github.com/pugazhenthi365/spices-website/blob/c5d087f7d71a07efb204e21d72b7d63883761323/Screenshot%202024-11-09%20181057.png)
