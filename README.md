@@ -1,4 +1,4 @@
-#Spices Website
+Spices Website
 
 This project is a fully responsive website designed for showcasing and selling organic spices. Built using HTML, CSS, JavaScript, and Bootstrap, the site provides an engaging and modern interface for potential customers.
 
